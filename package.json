@@ -1,7 +1,7 @@
 {
-  "name": "grunt-broccoli",
-  "version": "0.3.7",
-  "description": "Broccoli build and serve tasks for Grunt task runner",
+  "name": "grunt-broccoli-fc",
+  "version": "0.1",
+  "description": "Broccoli build and serve tasks for Grunt task runner. Fork adding automated tmp cleanup and updating deprecated copy function",
   "main": "Gruntfile.js",
   "tags": [
     "gruntplugin",
@@ -10,11 +10,11 @@
   "scripts": {
     "test": "grunt test"
   },
-  "author": "Taras Mankovski <taras@quandl.com>",
+  "author": "Robert Inglin <robert@ingl.in>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quandl/grunt-broccoli.git"
+    "url": "https://github.com/robertinglin/grunt-broccoli-fc.git"
   },
   "dependencies": {
     "grunt": "~0.4.2",
