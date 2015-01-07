@@ -1,6 +1,6 @@
 {
   "name": "grunt-broccoli-fc",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Broccoli build and serve tasks for Grunt task runner. Fork adding automated tmp cleanup and updating deprecated copy function",
   "main": "Gruntfile.js",
   "tags": [
